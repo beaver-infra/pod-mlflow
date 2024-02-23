@@ -11,9 +11,9 @@ Required
 
 ## Setup
 
-Using Helm - https://artifacthub.io/packages/helm/community-charts/mlflow
+### Usew Helm - https://artifacthub.io/packages/helm/community-charts/mlflow
 
-```console
+```
 minikube start
 
 helm repo add community-charts https://community-charts.github.io/helm-charts
